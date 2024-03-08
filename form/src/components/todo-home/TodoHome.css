@@ -1,0 +1,18 @@
+.todo-home {
+    padding: 0 50px;
+  }
+  
+  .todo-home h3 {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: left;
+  }
+  
+  .todo-home  {
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+  }
+  
+  
+  
